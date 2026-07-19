@@ -39,18 +39,19 @@ The entire workflow is built with **n8n**, reducing manual work while improving 
 
 ---
 
-# 📚 Table of Contents
+## 📚 Table of Contents
 
-- Features
-- Tech Stack
-- Workflow Overview
-- Demo
-- Screenshots
-- Project Structure
-- Installation
-- Business Benefits
-- Future Roadmap
-- About OXIVAR AI
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Workflow Overview](#-workflow-overview)
+- [Demo](#-demo)
+- [Screenshots](#-screenshots)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Business Benefits](#-business-benefits)
+- [Future Roadmap](#-future-roadmap)
+- [About OXIVAR AI](#-about-oxivar-ai)
 
 ---
 
@@ -102,7 +103,7 @@ Save Lead to Google Sheets
 
 # 🎬 Demo
 
-*A short workflow demonstration GIF will be added soon.*
+*A short demo GIF showcasing the workflow will be added in a future update.*
 
 ---
 
