@@ -14,7 +14,7 @@ An AI-powered workflow that automates lead collection, AI response generation, e
 
 <p align="center">
 
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat&logo=n8n&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-4B8BBE?style=flat)
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
