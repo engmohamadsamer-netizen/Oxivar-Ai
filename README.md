@@ -213,6 +213,10 @@ This repository is part of the official **OXIVAR AI Automation Portfolio**, show
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ---
 
 <p align="center">
